@@ -1,2 +1,2 @@
 # FlexboxCSS
-Página web criada com Flexbox
+Página web criada utilizando Flexbox
