@@ -8,3 +8,9 @@ Página web criada utilizando Flexbox
 
 
 https://github.com/CarlosAlexFO/FlexboxCSS/blob/main/Flexblog.gif
+
+
+# Demonstração do Funcionamento da Tela:
+
+![FlexblogCSS](https://github.com/CarlosAlexFO/FlexboxCSS/blob/master/Flexblog.gif)
+
