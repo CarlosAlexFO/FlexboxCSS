@@ -9,7 +9,7 @@ Página web criada utilizando Flexbox
 
 
 
-# Demonstração do Funcionamento da Tela:
+# Demonstração da página:
 
 
 ![Flexbox](https://github.com/CarlosAlexFO/FlexboxCSS/blob/main/Flexblog1.gif)
